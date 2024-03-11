@@ -7,8 +7,12 @@ import requests
 from dateutil.parser import parse
 import random
 import string
+from dotenv import load_dotenv
+import os
 
-TOKEN = "MTE0NjU3MzMzMTI5MDY3MzIyMg.Gygi9K.x30DzogeiihJ_7VQpuLtGltTagjpAPzwugN90c"
+load_dotenv()
+
+TOKEN = os.getenv("DISCORD_CLIENT_TOKEN")
 
 # initialising clients
 client = discord.Client(intents=discord.Intents.all())
