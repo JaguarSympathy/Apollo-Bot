@@ -1,5 +1,5 @@
 # Apollo-Bot
-Discord bot customized for the management and utility of Apollo Systems. Designed, developed and maintained by Apollo Systems.
+Discord bot customized for the management and utility of Apollo Systems.
 Developed by Apollo Systems' Director, [@JaguarSympathy](https://www.github.com/jaguarsympathy).
 
 Copyright (C) 2024 [@JaguarSympathy](https://www.github.com/jaguarsympathy) <mwade0459@gmail.com>. All rights reserved.
